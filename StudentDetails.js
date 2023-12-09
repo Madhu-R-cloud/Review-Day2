@@ -1,0 +1,1 @@
+console.log("Student details and marks, percentage calculation")
